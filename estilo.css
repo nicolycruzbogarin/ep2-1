@@ -1,0 +1,50 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 20px;
+  line-height: 1;
+  letter-spacing: 0,5px;
+}
+
+html {
+  background-color: #B7D5E5;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #469BD2;
+  padding: 0 20px 20px 20px;
+  border: 4px solid beige;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #274360;
+  text-shadow: 2px 2px 2px beige;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-image: url("seta.gif");
+}
+
+ul {
+	list-style: inside url("seta.gif");
+	}
+
+
+
+
+
+
+
+
